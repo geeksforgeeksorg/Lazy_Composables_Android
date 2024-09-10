@@ -1,2 +1,2 @@
-# Lazy_Composables_Android
+# Lazy Composables Android
 Android Jetpack Lazy Composables Android are Lazy Row , Lazy Column and Lazy Grid.
